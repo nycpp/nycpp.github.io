@@ -1,0 +1,14 @@
+title: NYC++
+description: NYC++ Meetup website
+
+url: "https://nycpp.github.io"
+baseurl: ""
+
+host: 0.0.0.0
+
+markdown: kramdown
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+timezone: "America/New_York"
