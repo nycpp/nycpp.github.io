@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media print, screen and (max-width: 480px) {
+  div[name="sidebar"] {
+    text-align: center;
+  }
+  div[name="sidebar-events"] {
+    display: none;
+  }
+}
+
+@media print, screen and (max-width: 1500px) {
+  div[name="conduct-toc"] {
+    display: none;
+  }
+}
