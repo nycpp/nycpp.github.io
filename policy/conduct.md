@@ -1,3 +1,8 @@
+---
+layout: conduct
+toc: conductTOC.html
+---
+
 # Code of conduct
 
 ## Before anything else...
@@ -10,6 +15,7 @@ The rest of this document will more precisely define the conduct expected from
 participants in NYC++ online spaces and events, as well as our protocol for
 acting on such reports. Please reach out to an NYC++ Lead Organizer or Conduct
 Committee member if you have any questions or concerns.
+
 
 ## Purpose
 A primary goal of the NYC++ meetup is to be inclusive to the largest number of
@@ -25,7 +31,7 @@ those who participate in our events to help us create safe and positive
 experiences for everyone.
 
 
-## Expected Behavior
+## Expected behavior
 The NYC++ community works to be welcoming and kind among itself and to others,
 with a deep commitment to psychological safety, and we want to ensure that
 does not change as we grow and evolve. To that end, we have a few ground rules
@@ -40,7 +46,7 @@ that we ask all community members to adhere to:
 This list is not exhaustive. Rather, it is intended to be a guide to make it
 easier to communicate and participate in the community.
 
-## Unacceptable Behavior
+## Unacceptable behavior
 Unacceptable behaviors include, but are not limited to: intimidating, harassing,
 abusive, discriminatory, derogatory or demeaning speech or actions by any
 participant in our community. Community event venues may sometimes be shared
@@ -69,7 +75,7 @@ hunting or display, as well as any other item used for the purpose of causing
 injury or harm to others.
 
 
-## Consequences of Unacceptable Behavior
+## Consequences of unacceptable behavior
 Unacceptable behavior from any community member, including sponsors, invited
 speakers, venue and catering partners, and community organizers, will not be
 tolerated. Anyone asked to stop unacceptable behavior is expected to comply
@@ -81,7 +87,7 @@ or permanent expulsion from the community without warning (and without refund in
 the case of a paid event).
 
 
-## If You Witness or Are Subject to Unacceptable Behavior
+## If you witness or are subject to unacceptable behavior
 The NYC++ Conduct Committee is responsible for reviewing, investigating, and
 responding to all reported incidents that breach this code of conduct. If you
 are subject to or witness unacceptable behavior, or have any other concerns
@@ -100,7 +106,7 @@ events, organizers will also provide escorts as desired by the person
 experiencing distress.
 
 
-## Procedure for Incident Handling
+## Procedure for incident handling
 The NYC++ Conduct Committee is responsible for reviewing and investigating all
 reports of code of conduct violations, for determining appropriate followup
 actions, and for maintaining a private record of all reported incidents.
@@ -148,7 +154,7 @@ choose to make a public statement about the incident; in such cases, the
 identities of anyone involved will remain confidential unless instructed
 otherwise by those individuals.
 
-### Special Cases
+### Special cases
 If a complaint is raised against a member of the Conduct Committee or
 one of the other NYC++ organizers, they will be excluded from conduct discussion
 and decisions, including discussion of any appeals. They will only be included
@@ -157,7 +163,7 @@ notify them of decisions. Such complaints may lead to a member's
 responsibilities being revoked.
 
 
-## Addressing Grievances
+## Addressing grievances
 If you feel you have been falsely or unfairly accused of violating this Code of
 Conduct, you should notify one of the NYC++ Lead Organizers with a concise
 description of your grievance. Your grievance will be handled in accordance with
@@ -196,7 +202,7 @@ to those harmed by such actions, as well as groups subjected to systemic
 marginalization or underrepresentation.
 
 
-## License and Attribution
+## License and attribution
 This is version 1.0 of the NYC++ Code of Conduct.
 It is licensed under the [Creative Commons Attribution-ShareAlike 4.0
 International (CC BY-SA 4.0) license](
