@@ -65,7 +65,7 @@ but are not limited to:
 * Deliberate intimidation, stalking or following.
 * Harassing photography or recording.
 * Sustained disruption of talks or other events.
-* Unconsented sharing of personallly identifying information (i.e., "doxing").
+* Unconsented sharing of personally identifying information (i.e., "doxing").
 * Inappropriate physical contact, and unwelcome sexual attention.
 * Advocating for, encouraging, or threatening any of the above behaviors.
 
