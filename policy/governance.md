@@ -31,11 +31,7 @@ appropriate followup actions, and keeping a private record of all reported
 incidents.
 
 <table>
-  <tr><td><b>Dan Katz</b></td><td><center>Bloomberg</center></td></tr>
   <tr><td><b>Nick DeMarco</b></td><td><center>Adobe</center></td></tr>
   <tr><td><b>David Sankel</b></td><td><center>Adobe</center></td></tr>
+  <tr><td><b>Kristen Shaker</b></td><td><center>Google</center></td></tr>
 </table>
-
-We aspire for the Conduct Committee to be a wholly separate group of
-volunteers. Until enough candidate volunteers have been identified, the NYC++
-Lead Organizers will also serve in this role.
