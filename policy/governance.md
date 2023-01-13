@@ -25,10 +25,17 @@ Lead Organizers.
 </table>
 
 ## Conduct Committee
-We aspire to soon establish a separate and independent committee of volunteers
-responsible for reviewing and investigating all reported [Code of Conduct](
-/policy/conduct.html) violations, determining appropriate followup actions, and
-keeping a private record of all reported incidents.
+The following individuals are responsible for reviewing and investigating all
+reported [Code of Conduct](/policy/conduct.html) violations, determining
+appropriate followup actions, and keeping a private record of all reported
+incidents.
 
-Until a suitable set of volunteers has been identified, the NYC++ Lead
-Organizers will share these responsibilities.
+<table>
+  <tr><td><b>Dan Katz</b></td><td><center>Bloomberg</center></td></tr>
+  <tr><td><b>Nick DeMarco</b></td><td><center>Adobe</center></td></tr>
+  <tr><td><b>David Sankel</b></td><td><center>Adobe</center></td></tr>
+</table>
+
+We aspire for the Conduct Committee to be a wholly separate group of
+volunteers. Until enough candidate volunteers have been identified, the NYC++
+Lead Organizers will also serve in this role.

@@ -14,13 +14,12 @@ those who cannot or do not wish to attend in person.
 ## What it's like
 Our events are rotationally hosted by different companies and universities in
 the area. Snacks, refreshments, chances to chat. Events typically center around
-talks or presentations by one or more invited speakers, and frequently include
-some sort of catered refreshments.
+talks or presentations by one or more invited speakers.
 
 ## Who it's for
 Anyone interested in writing C++, with a skew towards those doing so
 professionally. Beginners and language lawyers are welcome.
 
 We are committed to creating and maintaining  a safe and inclusive environment
-for everyone who attends. All attendees are expected to abide by our
+for everyone who attends. All attendees must agree to, and abide by, our
 [Code of Conduct](/policy/conduct.html).
