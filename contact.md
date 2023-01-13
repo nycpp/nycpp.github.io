@@ -1,10 +1,10 @@
 # Get in touch
 
 ## Meetup Group
-Please join our [Meetup group](
-https://www.meetup.com/new-york-c-c-meetup-group/) to stay up-to-date on our
-latest news and events. Feel free to also use the platform to reach out to any
-of our [organizers](/policy/governance.html) directly.
+Please join our [Meetup group <img src="/redirect-icon.png" width=12em/>](
+https://opencollective.com/foundation){:target="_blank"} to stay up-to-date on
+our latest news and events. Feel free to also use the platform to reach out to
+any of our [organizers](/policy/governance.html) directly.
 
 
 ## Organizers
