@@ -13,7 +13,7 @@ those who cannot or do not wish to attend in person.
 
 NYC++ is fiscally hosted by the 501(c)3 [Open Collective Foundation
 <img src="/redirect-icon.png" width=12em/>](
-https://opencollective.com/foundation){:target="_blank"}.
+https://opencollective.com/foundation){:target="\_blank"}.
 
 ## What it's like
 Our events are rotationally hosted by different companies and universities in
@@ -26,4 +26,4 @@ professionally. Beginners, students, and language lawyers are welcome.
 
 We are committed to creating and maintaining  a safe and inclusive environment
 for everyone who attends. All attendees must agree to, and abide by, our
-[Code of Conduct](/policy/conduct.html).
+[Code of Conduct](/policy/conduct).

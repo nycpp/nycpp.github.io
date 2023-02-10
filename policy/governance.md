@@ -26,9 +26,8 @@ Lead Organizers.
 
 ## Conduct Committee
 The following individuals are responsible for reviewing and investigating all
-reported [Code of Conduct](/policy/conduct.html) violations, determining
-appropriate followup actions, and keeping a private record of all reported
-incidents.
+reported [Code of Conduct](/policy/conduct) violations, determining appropriate
+followup actions, and keeping a private record of all reported incidents.
 
 <table>
   <tr><td><b>Nick DeMarco</b></td><td><center>Adobe</center></td></tr>

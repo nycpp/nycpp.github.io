@@ -98,7 +98,7 @@ mailto:nycpp-conduct@googlegroups.com), as soon as possible.
 
 If you would prefer to directly speak with a community organizer, please reach
 out to any of the individuals listed on the [Governance page](
-/policy/governance.html).
+/policy/governance).
 Community organizers are furthermore expected to be available to help community
 members engage with local law enforcement or to otherwise help those
 experiencing unacceptable behavior to feel safe. In the context of in-person
