@@ -35,7 +35,9 @@ mailto:nycpp-organizers@googlegroups.com) to discuss sponsoring an NYC++ event.
 An organization hosting an NYC++ event at their offices or campus elevates their
 reputation as a prominent supporter of New York's C++ community. For employers
 of C++ talent, hosting a meetup offers candidate hires a glimpse of a company's
-offices and culture at no expense to the firm.
+offices and culture at no expense to the firm. We include a logo for each
+organization that has hosted us during the last twelve months on a slide
+presented at the start of each event.
 
 Reach out to [nycpp-organizers@googlegroups.com](
 mailto:nycpp-organizers@googlegroups.com) to discuss hosting an NYC++ event.
