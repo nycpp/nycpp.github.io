@@ -23,9 +23,9 @@ events possible.
 Organziations can also sponsor individual events. Event sponsors work with us to
 directly cover the cost of food for attendees. We invite event sponsors to staff
 a small table where a recruiter can greet guests, offer swag, and discuss career
-opportunities. We allocate a few minutes for a representative from our sponsor
-to address the room, inviting them to share a bit about their organization and
-the importance of C++ to its business.
+opportunities. A few minutes are allocated for a representative from the sponsor
+to address the room, providing a chance to share a bit about the organization
+and the importance of C++ to its business.
 
 Reach out to [nycpp-organizers@googlegroups.com](
 mailto:nycpp-organizers@googlegroups.com) to discuss sponsoring an NYC++ event.
@@ -36,8 +36,8 @@ An organization hosting an NYC++ event at their offices or campus elevates their
 reputation as a prominent supporter of New York's C++ community. For employers
 of C++ talent, hosting a meetup offers candidate hires a glimpse of a company's
 offices and culture at no expense to the firm. We include a logo for each
-organization that has hosted us during the last twelve months on a slide
-presented at the start of each event.
+organization that has hosted us during the last six months on a slide presented
+at the start of each event.
 
 Reach out to [nycpp-organizers@googlegroups.com](
 mailto:nycpp-organizers@googlegroups.com) to discuss hosting an NYC++ event.
