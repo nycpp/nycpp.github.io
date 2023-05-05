@@ -1,6 +1,7 @@
 title: NYC++
 description: C++ meetup for New York City
 sidenav: sidenav.html
+sponsors_footer: sponsors-footer.html
 
 url: "https://nycpp.github.io"
 baseurl: ""

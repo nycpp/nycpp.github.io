@@ -12,10 +12,9 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>{% include {{site.sidenav}} %}</header>
-      <section>
-        {{ content }}
-      </section>
+      <header>{% include {{ site.sidenav }} %}</header>
+      <section>{{ content }}</section>
+      <div name="mobile-sponsors">{% include {{ site.sponsors_footer }} %}</div>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>

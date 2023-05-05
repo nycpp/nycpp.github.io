@@ -3,11 +3,17 @@
 
 @import "{{ site.theme }}";
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 960px) {
   div[name="sidebar"] {
     text-align: center;
   }
   div[name="sidebar-events"] {
+    display: none;
+  }
+}
+
+@media print, screen and (min-width: 960px) {
+  div[name="mobile-sponsors"] {
     display: none;
   }
 }
