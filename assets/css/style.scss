@@ -4,6 +4,9 @@
 @import "{{ site.theme }}";
 
 @media print, screen and (max-width: 960px) {
+  header {
+    padding-right: 0px;
+  }
   div[name="sidebar"] {
     text-align: center;
   }
