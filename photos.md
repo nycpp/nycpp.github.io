@@ -4,6 +4,15 @@ Below are some pictures from a few of our events.
 <center>
 <a target="_blank"
    rel="noopener noreferrer"
+   href="/assets/img/2023-05-04-inbal.png">
+   <img src="/assets/img/2023-05-04-inbal.png" />
+</a><br>
+<i>Inbal Levi shares her vision for "abstraction layers" in C++</i><br>
+<i>(May 2023 @ LSEG)</i><br><br>
+
+
+<a target="_blank"
+   rel="noopener noreferrer"
    href="/assets/img/2022-11-17-david.png">
    <img src="/assets/img/2022-11-17-david.png" />
 </a><br>
