@@ -6,6 +6,16 @@ available.
 
 - <span title="meetup.com event"><a target="_blank"
      rel="noopener noreferrer"
+     href="https://www.meetup.com/new-york-c-c-meetup-group/events/296784287/">
+     October 25th @ Adobe ft., Kristen Shaker <img width="12em" src="/redirect-icon.png"/>
+  </a></span> &#8212;
+  <span title="slides"><a target="_blank"
+       rel="noopener noreferrer"
+       href="https://docs.google.com/presentation/d/1wrTqWEvBoYyaL2hPZ6Mw3FBfzY2-ndBK70a1MDWLJwg/edit?usp=sharing">
+    📖</a></span>
+
+- <span title="meetup.com event"><a target="_blank"
+     rel="noopener noreferrer"
      href="https://www.meetup.com/new-york-c-c-meetup-group/events/295470161/">
      August 24th @ Adobe ft., Bryce Lelbach <img width="12em" src="/redirect-icon.png"/>
   </a></span> &#8212;
