@@ -19,6 +19,9 @@
   div[name="mobile-sponsors"] {
     display: none;
   }
+  div[name="mobile-meetups-link"] {
+    display: none;
+  }
 }
 
 @media print, screen and (max-width: 1500px) {
