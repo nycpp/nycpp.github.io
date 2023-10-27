@@ -20,7 +20,7 @@ available.
 <span title="meetup.com event"><a target="_blank" rel="noopener noreferrer" href="{{ meetup.url }}">
   {% endif %}
 
-{{ meetup.date | date_to_long_string: "ordinal", "US" | remove: "," | truncatewords: 2, ""}}
+{{ meetup.date | date_to_string: "ordinal", "US" | remove: "," | truncatewords: 2, ""}}
     @ {{meetup.venue}} ft., {{ meetup.speaker }}
 
   {% if meetup.url %}<img width="12em" src="/redirect-icon.png"/></a>{% endif %}
@@ -60,7 +60,7 @@ available.
   href="{{ meetup.url }}">
 {% endif %}
 
-{{ meetup.date | date_to_long_string: "ordinal", "US" | remove: "," | truncatewords: 2, ""}}
+{{ meetup.date | date_to_string: "ordinal", "US" | remove: "," | truncatewords: 2, ""}}
     @ {{meetup.venue}} ft., {{ meetup.speaker }}
     {% if meetup.url %}<img width="12em" src="/redirect-icon.png"/>
 {% if meetup.url %}
