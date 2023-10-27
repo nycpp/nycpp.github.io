@@ -25,54 +25,72 @@
 <div name="sidebar-events">
   <hr>
   <b>Upcoming</b><br>
+  {% for meetup in site.meetups reversed %}
+    {% capture todayDate %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture meetupDate %}{{meetup.date | date: '%s'}}{% endcapture %}
 
-  <span title="meetup.com event"><a
-     target="_blank"
-     rel="noopener noreferrer"
-     href="https://www.meetup.com/new-york-c-c-meetup-group/events/296921414">
-     Nov 1st ft., Greg Law <img width="12em" src="/redirect-icon.png"/>
-      </a></span><br>
-  <span title="meetup.com event">Jan 18th ft., TBA</span><br>
+    {% if todayDate <= meetupDate %}
+      {% if meetup.url %}
+        <span title="meetup.com event"><a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="{{ meetup.url }}">
+      {% endif %}
+
+      {{ meetup.date | date_to_string: "ordinal", "US" | remove: "," | truncatewords: 2, ""}}
+      ft., {{ meetup.speaker }}
+
+      {% if meetup.url %}
+        <img width="12em" src="/redirect-icon.png"/>
+        </a></span>
+      {% endif %}
+      <br>
+    {% endif %}
+  {% endfor %}
   <br>
+
   <b>Recent</b><br>
+  {% assign countRecent = 0 %}
+  {% for meetup in site.meetups %}
+    {% capture todayDate %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture meetupDate %}{{meetup.date | date: '%s'}}{% endcapture %}
 
-  <span title="meetup.com event"><a
-     target="_blank"
-     rel="noopener noreferrer"
-     href="https://www.meetup.com/new-york-c-c-meetup-group/events/296784287/">
-     Oct 25th ft., Kristen Shaker <img width="12em" src="/redirect-icon.png"/>
-      </a></span> &#8212;
-  <span title="slides"><a
-     target="_blank"
-     rel="noopener noreferrer"
-     href="https://docs.google.com/presentation/d/1wrTqWEvBoYyaL2hPZ6Mw3FBfzY2-ndBK70a1MDWLJwg/edit?usp=sharing"
-  >📖</a></span><br>
+    {% if todayDate > meetupDate %}
+      {% if countRecent >= 3 %} {% break %} {% endif %}
+      {% if meetup.url %}
+        <span title="meetup.com event"><a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="{{ meetup.url }}">
+      {% endif %}
 
-  <span title="meetup.com event"><a
-     target="_blank"
-     rel="noopener noreferrer"
-     href="https://www.meetup.com/new-york-c-c-meetup-group/events/295470161/">
-     Aug 24th ft., Bryce Lelbach <img width="12em" src="/redirect-icon.png"/>
-      </a></span> &#8212;
-  <span title="slides"><a
-     target="_blank"
-     rel="noopener noreferrer"
-     href="https://drive.google.com/file/d/1IZAyjmp9u2ihC_0v-LZYk1ky-8BkbEah/view?usp=sharing"
-  >📖</a></span><br>
+      {{ meetup.date | date_to_string: "ordinal", "US" | remove: "," | truncatewords: 2, ""}}
+      ft., {{ meetup.speaker }}
 
-  <span title="meetup.com event"><a
-     target="_blank"
-     rel="noopener noreferrer"
-     href="https://www.meetup.com/new-york-c-c-meetup-group/events/294518134/">
-     Jul 13th ft., Aary Sagar <img width="12em" src="/redirect-icon.png"/>
-      </a></span> &#8212;
-  <span title="slides"><a
-     target="_blank"
-     rel="noopener noreferrer"
-     href="https://drive.google.com/file/d/1IoJin-Z2quRVOoG-YmHjL8LjpCscC9s1/view?usp=drive_link"
-  >📖</a></span><br>
+      {% if meetup.url %}
+        <img width="12em" src="/redirect-icon.png"/>
+        </a></span>
+      {% endif %}
 
-  <br><a href="/meetups/past">...more...</a><br>
+      {% if meetup.slides || meetup.video %}
+        &#8212;
+        {% if meetup.video %}
+          <span title="video recording">
+            <a target="_blank"rel="noopener noreferrer"href="{{ meetup.video }}">📼</a>
+          </span>
+        {% endif %}
+        {% if meetup.slides %}
+          <span title="slides">
+            <a target="_blank"rel="noopener noreferrer"href="{{ meetup.slides }}">📖</a>
+          </span>
+        {% endif %}
+      {% endif %}
+      <br>
+      {% assign countRecent = countRecent | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  <br>
+  <a href="/meetups/past">...more...</a><br>
 
   <br>
   <hr>

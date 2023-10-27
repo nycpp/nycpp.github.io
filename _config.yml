@@ -13,5 +13,81 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-redirect-from
 - jekyll-remote-theme
+kramdown:
+  hard_wrap: false
 
 timezone: "America/New_York"
+
+
+meetups:
+  - date:    2024-01-18
+    venue:   TBA
+    speaker: TBA
+
+  - date:    2023-11-01
+    venue:   MongoDB
+    speaker: Greg Law
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/296921414/
+
+  - date:    2023-10-25
+    venue:   Adobe
+    speaker: Kristen Shaker
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/296784287/
+    slides:  https://docs.google.com/presentation/d/1wrTqWEvBoYyaL2hPZ6Mw3FBfzY2-ndBK70a1MDWLJwg/edit?usp=sharing
+
+  - date:    2023-08-24
+    venue:   Adobe
+    speaker: Bryce Lelbach
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/295470161/
+    slides:  https://drive.google.com/file/d/1IZAyjmp9u2ihC_0v-LZYk1ky-8BkbEah/view?usp=sharing
+
+  - date:    2023-07-13
+    venue:   Meta
+    speaker: Aary Sagar
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/294518134/
+    slides:  https://drive.google.com/file/d/1IoJin-Z2quRVOoG-YmHjL8LjpCscC9s1/view?usp=drive_link
+
+  - date:    2023-06-15
+    venue:   MongoDB
+    speaker: Titus Winters
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/293642196/
+    slides:  https://drive.google.com/file/d/1WOgcUKL7gBAaLowMeOyXTAXKVFmQF69v/view?usp=drive_link
+
+  - date:    2023-05-04
+    venue:   LSEG
+    speaker: Inbal Levi
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/292893396/
+    slides:  https://drive.google.com/file/d/1ylw9OY5wlIiKR39RfDRwiLzmp2uVGOUq/view?usp=share_link
+    video:   https://www.youtube.com/watch?v=xpNSlCm9E8w
+
+  - date:    2023-04-06
+    venue:   Adobe
+    speaker: Bret Brown
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/292220333/
+    slides:  https://drive.google.com/file/d/1AvVTxVm83FGVMGFKbgGNGAYpPjCoQDa6/view?usp=sharing
+    video:   https://www.youtube.com/watch?v=6YNkaHRkTwo
+
+  - date:    2023-03-01
+    venue:   MongoDB
+    speaker: Sean Baxter
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/291599044/
+    slides:  https://docs.google.com/presentation/d/1rRabWnRN7OiABE21bfmxA-yZbnU1oaSGozlQyAclUP8/edit?usp=sharing
+    video:   https://www.youtube.com/watch?v=P1ZDOGDMNLM
+
+  - date:    2023-02-09
+    venue:   NYU
+    speaker: Amir Kirsh
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/291143453/
+    slides:  https://docs.google.com/presentation/d/1pVTmLCZn0krxOV6WuxtT80v6iAzD55pGjyQhjPaDagA/edit?usp=sharing
+
+  - date:    2023-01-12
+    venue:   Adobe
+    speaker: Titus Winters
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/290543607/
+    slides:  https://docs.google.com/presentation/d/1b-pn8IX5VRy1ZuJoe5jl92ujONkyW9eqLMA2DgXAGqo/edit?usp=sharing&resourcekey=0-cuiiqLhF8vhB-B3T6Vntyw
+
+  - date:    2022-11-17
+    venue:   Adobe
+    speaker: David Sankel
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/289451548/
+    video:   https://www.youtube.com/watch?v=wfpJCUJhZB4
