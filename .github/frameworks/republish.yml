@@ -1,0 +1,16 @@
+Name: Republish
+
+on:
+  schedule:
+    - cron: '1 22 * * *'
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger rebuild of Github Pages site
+        run: |
+          curl --fail --request POST \
+            --url https://api.github.com/repos/nycpp/nycpp.github.io/pages/builds \
+            --header "Authorization: Bearer $USER_TOKEN"
+        env:
+          USER_TOKEN: $REPUBLISH_SITE_TOKEN
