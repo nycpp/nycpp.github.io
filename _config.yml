@@ -28,6 +28,7 @@ meetups:
     venue:   MongoDB
     speaker: Greg Law
     url:     https://www.meetup.com/new-york-c-c-meetup-group/events/296921414/
+    video:   https://www.youtube.com/watch?v=2A1YlSKDfyc
 
   - date:    2023-10-25
     venue:   Adobe
