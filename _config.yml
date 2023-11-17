@@ -24,6 +24,10 @@ meetups:
     venue:   TBA
     speaker: TBA
 
+  - date:    2023-12-06
+    venue:   Adobe
+    speaker: TBA
+
   - date:    2023-11-01
     venue:   MongoDB
     speaker: Greg Law
