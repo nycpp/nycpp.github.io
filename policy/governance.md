@@ -21,7 +21,8 @@ Lead Organizers.
 
 <table>
   <tr><td><b>Andres Cordova</b></td><td><center>Bloomberg</center></td></tr>
-  <tr><td><b>Vern Riedlin</b></td><td><center>Bloomberg</center></td></tr>
+  <tr><td><b>Em Riedlin</b></td><td><center></center></td></tr>
+  <tr><td><b>Victor Cabrera</b></td><td><center>Bloomberg</center></td></tr>
 </table>
 
 ## Conduct Committee
