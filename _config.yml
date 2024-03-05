@@ -20,6 +20,11 @@ timezone: "America/New_York"
 
 
 meetups:
+  - date:    2024-03-08
+    venue:   Adobe
+    speaker: Sean Parent
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/299348651/
+
   - date:    2024-01-18
     venue:   Tower Research
     speaker: BlazingMQ
