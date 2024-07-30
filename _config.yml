@@ -20,6 +20,26 @@ timezone: "America/New_York"
 
 
 meetups:
+  - date:    2024-07-25
+    venue:   MongoDB
+    speaker: Andreas Fertig
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/302273991/
+
+  - date:    2024-06-13
+    venue:   Hudson River Trading
+    speaker: Daveed Vandevoorde
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/301321386/
+
+  - date:    2024-05-16
+    venue:   Adobe
+    speaker: Robert Leahy
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/300788089/
+
+  - date:    2024-04-25
+    venue:   Clinton Hall 51st St
+    speaker: Gašper Ažman
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/300327397/
+
   - date:    2024-03-07
     venue:   Adobe
     speaker: Sean Parent
