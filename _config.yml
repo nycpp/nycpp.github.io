@@ -20,7 +20,7 @@ timezone: "America/New_York"
 
 
 meetups:
-  - date:    2024-10-16
+  - date:    2024-10-17
     venue:   Tower Research
     speaker: Mike Shah
     url:     https://www.meetup.com/new-york-c-c-meetup-group/events/303829921/
