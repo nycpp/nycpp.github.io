@@ -20,6 +20,16 @@ timezone: "America/New_York"
 
 
 meetups:
+  - date:    2025-01-23
+    venue:   Adobe
+    speaker: David Sankel
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/305606502/
+  
+  - date:    2025-01-13
+    venue:   Citadel Securities
+    speaker: Herb Sutter
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/305184499/
+
   - date:    2024-10-17
     venue:   Tower Research
     speaker: Mike Shah
