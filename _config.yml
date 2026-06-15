@@ -20,11 +20,26 @@ timezone: "America/New_York"
 
 
 meetups:
+  - date:    2025-11-25
+    venue:   Adobe
+    speaker: Bjarne Stroustrup
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/311950740/
+ 
+  - date:    2025-09-25
+    venue:   Adobe
+    speaker: Amir Kirsh
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/311061267/
+
+  - date:    2025-07-17
+    venue:   HRT
+    speaker: Bryce Lelbach
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/308597317/
+
   - date:    2025-01-23
     venue:   Adobe
     speaker: David Sankel
     url:     https://www.meetup.com/new-york-c-c-meetup-group/events/305606502/
-  
+
   - date:    2025-01-13
     venue:   Citadel Securities
     speaker: Herb Sutter
