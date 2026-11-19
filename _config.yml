@@ -20,6 +20,21 @@ timezone: "America/New_York"
 
 
 meetups:
+  - date:    2026-06-04
+    venue:   Trexquant
+    speaker: Mike Shah
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/314902157/
+
+  - date:    2026-05-28
+    venue:   HRT
+    speaker: "C++: The Documentary panel"
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/314620197/
+
+  - date:    2026-02-11
+    venue:   Citadel Securities
+    speaker: Herb Sutter
+    url:     https://www.meetup.com/new-york-c-c-meetup-group/events/313108254/
+
   - date:    2025-11-25
     venue:   Adobe
     speaker: Bjarne Stroustrup
